@@ -1,0 +1,3 @@
+[submodule "opencode/skills/jingshui"]
+	path = opencode/skills/jingshui
+	url = https://github.com/Ming-H/jingshui.git
